@@ -27,7 +27,11 @@ devtools::install_github("ingenious-brothers/ACV-Plotter")
 
 Use ACV_Table_Builder.xlsm to Create Your Appropriate and Standard ACV File
 
-
+Usage Exapmle in R:
+(
+> library(RACV)
+> ACV_Plotter("C:/Users/xyz/Desktop/ACV_Table_Builder")
+)
 
 Created by: Dr. Sh. Azizi, Ali Nikseresht, Mohammad Hosein Raeisi 
 (All From Department of Management & Accounting, Shahid Beheshti University, Tehran, Iran)
