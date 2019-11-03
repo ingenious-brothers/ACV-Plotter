@@ -5,13 +5,13 @@ ACV Plotter using Excel VBA Macro and R-Language
 ACV Stands for: Attribute- Consequence- Value
 
 Necessary Libraries For you to install in R: <br/>
-  library(DevTools),<br/>
-  library(DiagrammeR),<br/>
-  library(diagram),<br/>
-  library(igraph),<br/>
-  library(readxl),<br/>
-  library(tidyverse),<br/>
-  library(plot.matrix),<br/>
+  library(DevTools)<br/>
+  library(DiagrammeR)<br/>
+  library(diagram)<br/>
+  library(igraph)<br/>
+  library(readxl)<br/>
+  library(tidyverse)<br/>
+  library(plot.matrix)<br/>
   library(ggplot2)<br/>
  
  
