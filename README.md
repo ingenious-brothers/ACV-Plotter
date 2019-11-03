@@ -15,7 +15,7 @@ Necessary Libraries For you to install in R:
   library(ggplot2)
  
  
-Notice: All the packages in R should be UPDATED
+Notice: All the packages in R should be UPDATED to their last version
 
 Like the Following example code you can install the rest: 
 install.packages("DevTools"))
