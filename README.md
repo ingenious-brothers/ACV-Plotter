@@ -20,6 +20,8 @@ Notice: All the packages in R should be UPDATED to their last version
 Like the Following example code you can install the rest: <br/>
 > install.packages("devtools")
 
+Rtools is required to build R packages;<br/>
+Please download and install Rtools custom from http://cran.r-project.org/bin/windows/Rtools/<br/>
 
 In RStudio when you want to Install from GitHub use the following code: <br/>
 > devtools::install_github("ingenious-brothers/ACV-Plotter")
