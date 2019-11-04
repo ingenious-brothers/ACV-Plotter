@@ -5,7 +5,7 @@ ACV Plotter using Excel VBA Macro and R-Language
 ACV Stands for: Attribute- Consequence- Value
 
 Necessary Libraries For you to install in R: <br/>
- > library(DevTools)<br/>
+ > library(devtools)<br/>
  > library(DiagrammeR)<br/>
  > library(diagram)<br/>
  > library(igraph)<br/>
@@ -18,7 +18,7 @@ Necessary Libraries For you to install in R: <br/>
 Notice: All the packages in R should be UPDATED to their last version
 
 Like the Following example code you can install the rest: <br/>
-> install.packages("DevTools")
+> install.packages("devtools")
 
 
 In RStudio when you want to Install from GitHub use the following code: <br/>
