@@ -1,4 +1,4 @@
-# ACV-Plotter
+# ACV-Plotter-V1
 
 ACV Plotter using Excel VBA Macro and R-Language
 
@@ -24,7 +24,7 @@ Rtools is required to build R packages;<br/>
 Please download and install Rtools custom from http://cran.r-project.org/bin/windows/Rtools/<br/>
 
 In RStudio when you want to Install from GitHub use the following code: <br/>
-> devtools::install_github("ingenious-brothers/ACV-Plotter")
+> devtools::install_github("ingenious-brothers/ACV-Plotter-V1")
 
 
 Use ACV_Table_Builder.xlsm to Create Your Appropriate and Standard ACV File
